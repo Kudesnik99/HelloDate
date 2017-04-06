@@ -10,5 +10,6 @@ public class HelloDate {
     { System.out.println("Привет, сегодня:");
       System.out.println(new Date());
       //test
+      //test2
     }
 }
